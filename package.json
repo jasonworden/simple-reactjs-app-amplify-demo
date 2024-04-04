@@ -36,7 +36,6 @@
     "country-data": "^0.0.31",
     "credit-card-type": "^9.0.0",
     "crypto-js": "^3.0.0",
-    "debug": "^4.0.0",
     "diff": "^4.0.1",
     "emoji-regex": "^9.0.0",
     "error-stack-parser": "^2.0.6",

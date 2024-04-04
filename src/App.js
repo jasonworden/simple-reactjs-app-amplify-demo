@@ -75,8 +75,7 @@ import 'classnames';
 // import 'core-js';
 // import 'country-data';
 // import 'credit-card-type';
-import 'crypto-js';
-import 'debug';
+// import 'crypto-js';
 // import 'diff';
 // import 'emoji-regex';
 // import 'error-stack-parser';
@@ -89,12 +88,12 @@ import 'debug';
 // import 'hoist-non-react-statics';
 // import 'idb-keyval';
 // import 'idle-tracker';
-import 'immer';
-import 'intersection-observer';
-import 'intl';
-import 'intl-locales-supported';
-import 'invariant';
-import 'ip-range-check';
+// import 'immer';
+// import 'intersection-observer';
+// import 'intl';
+// import 'intl-locales-supported';
+// import 'invariant';
+// import 'ip-range-check';
 
 class App extends Component {
   render() {
