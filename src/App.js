@@ -97,6 +97,7 @@ import 'classnames';
 
 class App extends Component {
   render() {
+    console.log('process.env:', process.env);
     console.log("Host URL"+process.env.PUBLIC_URL);
     return (
 
