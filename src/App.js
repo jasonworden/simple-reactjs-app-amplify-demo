@@ -16,7 +16,6 @@ import '@formatjs/intl-numberformat';
 import '@formatjs/intl-pluralrules';
 import '@formatjs/intl-relativetimeformat';
 import '@joeattardi/emoji-button';
-import '@use-gesture/react';
 import 'async';
 // "basic-auth": "^2.0.0",
 // "blueimp-canvas-to-blob": "^3.19.0",
